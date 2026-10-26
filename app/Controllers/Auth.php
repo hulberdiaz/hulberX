@@ -46,3 +46,4 @@ class Auth extends BaseController
         return redirect()->to(site_url('login'));
     }
 }
+// cambio de prueba
